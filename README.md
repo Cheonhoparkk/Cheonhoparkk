@@ -18,3 +18,11 @@
   
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=chpark610&theme=default)](https://chpark610.tistory.com/)
 </div><br>
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:a20489506@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
+
