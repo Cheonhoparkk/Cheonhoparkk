@@ -9,9 +9,8 @@
 
 
 [![Cheonhoparkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheonhoparkk&hide=stars,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/Cheonhoparkk/github-readme-stats)
-
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheonhoparkk&layout=compact&theme=dracula)](https://github.com/Cheonhoparkk/github-readme-stats)
+[![Cheonhoparkk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheonhoparkk&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Cheonhoparkk)
 
 <br>
 
