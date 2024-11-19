@@ -10,16 +10,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheonhoparkk&layout=compact&theme=radical" alt="Top Langs">
 </p>
 
-<br>
-<br>
 
 #### 💻 Blog
 <a href="https://chpark610.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/TISTORY-EE4E4E?style=for-the-badge&logo=tistory&logoColor=white"/>
 </a>
 
-<br>
-<br>
 
 ### 📚 Skills
 <div style="display: flex;">
