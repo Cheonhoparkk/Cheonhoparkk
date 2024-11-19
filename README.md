@@ -63,5 +63,13 @@
   <a>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracleL&logoColor=white">
+  </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  </a>
   
 </div>
