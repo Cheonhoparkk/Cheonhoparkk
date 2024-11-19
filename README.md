@@ -42,10 +42,10 @@
 
 <div style="display: flex;">
   <a>
-    <img src="https://img.shields.io/badge/html5-%23ED8B00.svg?style=for-the-badge&logo=html5&logoColor=#E34F26"/>
+    <img src="https://img.shields.io/badge/html5-#E34F26.svg?style=for-the-badge&logo=html5&logoColor=#E34F26"/>
   </a>
 
   <a>
-    <img src="https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
+    <img src="https://img.shields.io/badge/javascript-#E34F26.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
   </a>
 </div>
