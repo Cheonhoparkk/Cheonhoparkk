@@ -39,3 +39,9 @@
     <img src="https://img.shields.io/badge/spring security-%236DB33F.svg?style=for-the-badge&logo=spring security&logoColor=white"/>
   </a>
 </div>
+
+<div style="display: flex;">
+  <a>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  </a>
+</div>
