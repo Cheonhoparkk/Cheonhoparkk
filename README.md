@@ -8,7 +8,7 @@
 
 
 
-![Cheonhoparkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheonhoparkk&show_icons=true&theme=tokyonight&count_private=true)
+![Cheonhoparkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheonhoparkk&show_icons=true&theme=tokyonight&count_private=true)&hide=stars, contribs
 <br>
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheonhoparkk&layout=compact&theme=tokyonight)
 <br>
