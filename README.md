@@ -28,10 +28,14 @@
   </a>
 
   <a>
-    <img src="https://img.shields.io/badge/spring boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   </a>
 
   <a>
     <img src="https://img.shields.io/badge/spring boot-%236DB33F.svg?style=for-the-badge&logo=spring boot&logoColor=white"/>
+  </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/spring security-%236DB33F.svg?style=for-the-badge&logo=spring security&logoColor=white"/>
   </a>
 </div>
