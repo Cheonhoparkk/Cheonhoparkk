@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Github Badge](https://img.shields.io/badge/-veggie--garden-grey?style=flat&logo=github&logoColor=white&link=https://github.com/veggie-garden/)](https://www.github.com/veggie-garden/) 
+[![Github Badge](https://img.shields.io/badge/-veggie--garden-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Cheonhoparkk/)](https://www.github.com/Cheonhoparkk/) 
 [![Gmail Badge](https://img.shields.io/badge/-devcseo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devcseo@gmail.com)](mailto:devcseo@gmail.com) 
 [![GitHub.io](https://img.shields.io/badge/GitHub.io-orange?style=flat&logoColor=white)](https://veggie-garden.github.io/)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://veggie-garden.tistory.com/)
