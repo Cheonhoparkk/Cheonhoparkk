@@ -8,10 +8,10 @@
 
 
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheonhoparkk&hide=stars,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/Cheonhoparkk/github-readme-stats)
+[![Cheonhoparkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheonhoparkk&hide=stars,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/Cheonhoparkk/github-readme-stats)
 
 <br>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheonhoparkk&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheonhoparkk&layout=compact&theme=tokyonight)]
 <br>
 
 ## 💻 DEV's log 💻
