@@ -9,7 +9,6 @@
 
 
 [![Cheonhoparkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheonhoparkk&hide=stars,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/Cheonhoparkk/github-readme-stats)
-<br>
 [![Cheonhoparkk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheonhoparkk&show_icons=true&hide_border=true&layout=compact&theme=tokyonight)](https://github.com/Cheonhoparkk)
 
 <br>
