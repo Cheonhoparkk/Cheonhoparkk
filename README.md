@@ -38,6 +38,10 @@
   <a>
     <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=#02303A">
   </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/apache maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=#02303A">
+  </a>
 </div>
 
 <div style="display: flex;">
@@ -81,6 +85,14 @@
 <div style="display: flex;">
   <a>
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+  </a>
+  
+  <a>
+    <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
+  </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   </a>
   
 </div>
