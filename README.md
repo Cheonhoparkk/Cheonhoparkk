@@ -34,6 +34,10 @@
   <a>
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
   </a>
+    <img src="https://img.shields.io/badge/gradle?style=for-the-badge&logo=gradle&logoColor=white">
+  <a>
+    
+  </a>
 </div>
 
 <div style="display: flex;">
@@ -51,6 +55,13 @@
 
   <a>
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+  </a>
+  
+</div>
+
+<div style="display: flex;">
+  <a>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   </a>
   
 </div>
