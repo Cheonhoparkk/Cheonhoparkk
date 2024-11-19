@@ -6,7 +6,7 @@
 
 #### 🛠️ Github Stats
 <p>
-  <img height="180em" width="200em"src="https://github-readme-stats.vercel.app/api?username=Cheonhoparkk&hide=stars,contribs&show_icons=true&theme=radical" alt="Cheonhoparkk's GitHub stats">
+  <img height="180em" width="400em"src="https://github-readme-stats.vercel.app/api?username=Cheonhoparkk&hide=stars,contribs&show_icons=true&theme=radical" alt="Cheonhoparkk's GitHub stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheonhoparkk&layout=compact&theme=radical" alt="Top Langs">
 </p>
 
