@@ -6,6 +6,8 @@
 
 
 #### 🛠️ Github Stats
-![Cheonhoparkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheonhoparkk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheonhoparkk&layout=compact&theme=radical)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cheonhoparkk&show_icons=true&theme=radical" alt="Cheonhoparkk's GitHub stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheonhoparkk&layout=compact&theme=radical" alt="Top Langs">
+</p>
 
