@@ -8,9 +8,9 @@
 
 
 
-[![Cheonhoparkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheonhoparkk&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Cheonhoparkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheonhoparkk&show_icons=true&theme=tokyonight&count_private=true)
 <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheonhoparkk)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheonhoparkk&layout=compact&theme=tokyonight)
 <br>
 
 ## 💻 DEV's log 💻
