@@ -42,10 +42,19 @@
 
 <div style="display: flex;">
   <a>
-    <img src="https://img.shields.io/badge/html5-#E34F26.svg?style=for-the-badge&logo=html5&logoColor=#E34F26"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   </a>
 
   <a>
-    <img src="https://img.shields.io/badge/javascript-#E34F26.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   </a>
+  
+  <a>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+  </a>
+  
 </div>
