@@ -73,3 +73,10 @@
   </a>
   
 </div>
+
+<div style="display: flex;">
+  <a>
+    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+  </a>
+  
+</div>
