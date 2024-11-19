@@ -96,3 +96,13 @@
   </a>
   
 </div>
+
+<div style="display: flex;">
+  <a>
+    <img src="https://img.shields.io/badge/subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white">
+  </a>
+
+  <a>
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </a>
+</div>
