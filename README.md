@@ -4,14 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-a20489506@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a20489506@gmail.com)](mailto:a20489506@gmail.com) 
 
 
-#### 🛠️ Github Stats
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cheonhoparkk&hide=stars,contribs&show_icons=true&theme=radical" alt="Cheonhoparkk's GitHub stats">
-  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheonhoparkk&layout=compact&theme=radical" alt="Top Langs">
-</p>
-
-
 #### 💻 Blog
 <a href="https://chpark610.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/TISTORY-EE4E4E?style=for-the-badge&logo=tistory&logoColor=white"/>
@@ -107,3 +99,11 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </a>
 </div>
+
+
+#### 🛠️ Github Stats
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cheonhoparkk&hide=stars,contribs&show_icons=true&theme=radical" alt="Cheonhoparkk's GitHub stats">
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheonhoparkk&layout=compact&theme=radical" alt="Top Langs">
+</p>
