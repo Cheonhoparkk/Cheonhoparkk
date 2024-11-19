@@ -42,6 +42,6 @@
 
 <div style="display: flex;">
   <a>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/html5-%23ED8B00.svg?style=for-the-badge&logo=html5&logoColor=#E34F26"/>
   </a>
 </div>
